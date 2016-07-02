@@ -7,6 +7,10 @@
 - 根据官方文档说明：dev测试环境只提供对IOS支持，不支持Android.
 
 
+## Requirements
+`pip install requests`
+
+
 ## Example
 
     # -*- coding: utf-8 -*-
